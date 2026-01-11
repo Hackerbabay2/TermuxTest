@@ -1,4 +1,6 @@
-﻿namespace TermuxTest
+﻿using System.Collections.Generic;
+
+namespace TermuxTest
 {
     internal class Program
     {
